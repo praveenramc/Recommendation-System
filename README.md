@@ -1,2 +1,2 @@
 # Recommendation-System
-Netflix Recommendation System based on Collaborative Filtering
+Netflix Recommendation System based on <sub>subscript</sub>Collaborative Filtering
